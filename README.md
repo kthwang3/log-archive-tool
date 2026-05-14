@@ -1,11 +1,11 @@
-## Log Archive Tool
+# Log Archive Tool
 A Linux script that compresses logs into a tar.gz file and stores them in a new directory.
 
-# Features
+## Features
 - Time and date stamped logs
 - Directory Inputs Accepted
 
-# How to Run
+## How to Run
 1. Clone the Repository
 2. Make the script executable in Bash:
 ``` bash
@@ -16,5 +16,5 @@ chmod +x log-archives-tool.sh
 ./log-archives-tool.sh <your-directory>
 ```
 
-# Requirements
+## Requirements
 - Linux or WSL
